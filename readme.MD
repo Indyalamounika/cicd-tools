@@ -15,8 +15,8 @@ sudo systemctl enable jenkins
 Plugins:
 
 ```
-Stage view
-AWS Steps
+* Stage view
+* AWS Steps
 SonarQube scanner
 Pipeline utility steps
 ```
