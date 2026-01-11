@@ -22,15 +22,14 @@ Plugins:
 
 
 Master Agent Architecture:
-```
-Create credentials to connect agent
-Install Java in agent
-Select Non verification strategy
-```
+
+* Create credentials to connect agent
+* Install Java in agent
+* Select Non verification strategy
+
 
 Credentials:
-```
-SSH authentication
-AWS credentials
-Sonar token
-```
+
+* SSH authentication
+* AWS credentials
+* Sonar token
