@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "remote-mounika"
+    bucket = "remotestate-mounika"
     key    = "roboshop-dev-jenkins"
     region = "us-east-1"
     use_lockfile = true
